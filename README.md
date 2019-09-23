@@ -1,5 +1,7 @@
 # Sphere Analytics SDK
 
+![Sphere Analytics SDK](image/sphere_analytics.png)
+
 ## Android SDK
 
 * [Android SDK 연동 가이드](https://github.com/tand-git/android-sdk)
