@@ -22,7 +22,7 @@
 
 * [JavaScript API 연동 가이드](https://github.com/tand-git/web-sdk)
 
-* [JavaScript API 다운로드](https://github.com/tand-git/web-sdk/releases)
+* [JavaScript API 다운로드](https://github.com/tand-git/web-sdk/releases)
 
 * [JavaScript API 및 샘플 소스](https://github.com/tand-git/web-sdk/tree/master/web)
 
