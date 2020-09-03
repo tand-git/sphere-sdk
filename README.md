@@ -1,10 +1,12 @@
-# Sphere Analytics SDK
+# Sphere SDK
 
 ![Sphere Analytics SDK](image/sphere_analytics.png)
 
 ## Android SDK
 
 * [Android SDK 연동 가이드](https://github.com/tand-git/android-sdk)
+
+  * [Android In-App Message 연동 가이드](https://github.com/tand-git/android-sdk/blob/master/InAppMessage.md)
 
 * [Android SDK 다운로드](https://github.com/tand-git/android-sdk/releases)
 
@@ -13,6 +15,8 @@
 ## iOS SDK
 
 * [iOS SDK 연동 가이드](https://github.com/tand-git/ios-sdk)
+
+  * [iOS In-App Message 연동 가이드](https://github.com/tand-git/ios-sdk/blob/master/InAppMessage.md)
 
 * [iOS SDK 다운로드](https://github.com/tand-git/ios-sdk/releases)
 
