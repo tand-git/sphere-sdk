@@ -22,13 +22,13 @@
 
 * [iOS SDK 샘플 소스](https://github.com/tand-git/ios-sdk/tree/master/sample)
 
-## JavaScript API (웹뷰용)
+## Web SDK
 
-* [JavaScript API 연동 가이드](https://github.com/tand-git/web-sdk)
+* [Web SDK 연동 가이드](https://github.com/tand-git/web-sdk)
 
-* [JavaScript API 다운로드](https://github.com/tand-git/web-sdk/releases)
+* [Web SDK 다운로드](https://github.com/tand-git/web-sdk/releases)
 
-* [JavaScript API 및 샘플 소스](https://github.com/tand-git/web-sdk/tree/master/web)
+* [Web SDK 샘플 소스](https://github.com/tand-git/web-sdk/tree/master/web)
 
 ## Sphere SDK 연동 검증
 
