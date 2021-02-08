@@ -8,6 +8,8 @@
 
     * [푸시 메시지 연동 가이드](https://github.com/tand-git/android-sdk/blob/master/message/PushMessage.md)
 
+    * [인앱 메시지 연동 가이드](https://github.com/tand-git/android-sdk/blob/master/message/InAppMessage.md)
+
 * [Android SDK 다운로드](https://github.com/tand-git/android-sdk/releases)
 
 * [Android SDK 샘플 소스](https://github.com/tand-git/android-sdk/tree/master/sample)
@@ -17,6 +19,8 @@
 * [iOS SDK 연동 가이드](https://github.com/tand-git/ios-sdk)
 
     * [푸시 메시지 연동 가이드](https://github.com/tand-git/ios-sdk/blob/master/message/PushMessage.md)
+
+    * [인앱 메시지 연동 가이드](https://github.com/tand-git/ios-sdk/blob/master/message/InAppMessage.md)
 
 * [iOS SDK 다운로드](https://github.com/tand-git/ios-sdk/releases)
 
