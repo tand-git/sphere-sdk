@@ -40,4 +40,4 @@ Set user property. [속성명] : [속성값]
 
 ### Sphere Analytics 콘솔을 통한 검증
 
-Sphere Analtyics 콘솔에서 회원가입 및 로그인이 가능하다면 [SDK 연동 및 검증](https://analytics.tand.kr/account/inspector) 화면에서 가장 최근에 수집된 이벤트 및 세션 정보를 확인할 수 있습니다.
+Sphere Analtyics 콘솔에서 로그인 후 [SDK 연동 및 검증](https://analytics.tand.kr/account/inspector) 화면에서 가장 최근에 수집된 이벤트 및 세션 정보를 확인할 수 있습니다.
