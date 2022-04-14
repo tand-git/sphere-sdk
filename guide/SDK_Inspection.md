@@ -13,8 +13,10 @@ Sphere Analtyics 콘솔에서 로그인 후 [SDK 연동 및 검증](https://anal
 
 SDK 로그를 확인하기 위해서는 아래 해당하는 플랫폼의 SDK 연동 가이드 내용에 따라 SDK 로그 출력을 활성화합니다.
 
+* [Web SDK 연동 가이드 - 로그 출력](https://github.com/tand-git/web-sdk#로그-출력)
 * [Android SDK 연동 가이드 - 로그 출력](https://github.com/tand-git/android-sdk#로그-출력)
 * [iOS SDK 연동 가이드 - 로그 출력](https://github.com/tand-git/ios-sdk#로그-출력)
+
 
 로그가 활성화 되었다면 다음과 같이 정상적으로 로그가 출력이 됩니다.  
 만약 정상적으로 연동이 되지 않은 경우 로그가 출력이 되지 않거나 에러 로그를 출력합니다.
