@@ -6,7 +6,7 @@
 
 ### Sphere Analytics 콘솔을 통한 검증
 
-[검증가이드](https://lightning-individual-9c1.notion.site/ed4a7dd092d6446e8be56e73648637a2)를 참조하여,
+[Notion 연동검증가이드](https://lightning-individual-9c1.notion.site/ed4a7dd092d6446e8be56e73648637a2)를 참조하여,
 Sphere Analtyics 콘솔에서 로그인 후 [SDK 연동 및 검증](https://analytics.tand.kr/account/inspector) 화면에서 가장 최근에 수집된 이벤트 및 세션 정보를 확인할 수 있습니다.
 
 ### SDK 로그를 통한 검증
