@@ -34,14 +34,6 @@
 
 * [Web SDK 샘플 소스](https://github.com/tand-git/web-sdk/tree/master/web)
 
-## WebView SDK : 웹뷰 지원 JavaScript SDK
-
-* [WebView SDK 연동 가이드](https://github.com/tand-git/webview-sdk)
-
-* [WebView SDK 다운로드](https://github.com/tand-git/webview-sdk/releases)
-
-* [WebView SDK 샘플 소스](https://github.com/tand-git/webview-sdk/tree/master/web)
-
 ## Sphere SDK 연동 검증
 
 * [Sphere SDK 연동 검증 가이드](guide/SDK_Inspection.md)
